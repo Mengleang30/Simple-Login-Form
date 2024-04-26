@@ -144,7 +144,8 @@ input:focus::placeholder {
 }
 .Me{
     margin-top: 5px;
-   display: flex;
-   column-gap: 5px;
+    display: flex;
+    column-gap: 5px;
+    text-align: center;
 }
 
