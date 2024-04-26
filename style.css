@@ -131,9 +131,9 @@ input:focus::placeholder {
         font-size: 25px;
     }
 }
-@media screen and (max-width: 1090px) {
+@media screen and (max-width: 720px) {
     .container{
-        width: 350px;
+        width: 330px;
     }
     .container h1{
         font-size: 25px;
