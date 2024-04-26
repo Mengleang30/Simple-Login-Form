@@ -1,4 +1,5 @@
 body{
+    flex-direction: column;
     display: flex;
     min-height: 100vh;
     justify-content: center;
@@ -138,10 +139,10 @@ input:focus::placeholder {
         font-size: 25px;
     }
 }
-.container .Me span{
+.Me span{
     font-size: 14px;
 }
-.container .Me{
+.Me{
     margin-top: 5px;
    display: flex;
    column-gap: 5px;
