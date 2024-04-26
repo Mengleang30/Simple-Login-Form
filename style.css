@@ -7,7 +7,6 @@ body{
     background: url(car.jpg) no-repeat;
     background-size: cover;
     background-position: center;
-   
 }
 *{
     margin: 0;
@@ -138,5 +137,13 @@ input:focus::placeholder {
     .container h1{
         font-size: 25px;
     }
+}
+.container .Me span{
+    font-size: 14px;
+}
+.container .Me{
+    margin-top: 5px;
+   display: flex;
+   column-gap: 5px;
 }
 
